@@ -1,7 +1,7 @@
 # portfolio
 Steps:-
-  -First it shows the welcome page.
-  -If you already have an account then click on login button for login.
+  #First it shows the welcome page.
+  #If you already have an account then click on login button for login.
   -If you are new to this site then click oon register button for registeration process.
   -In register page there is 3 input data will take i.e your email id and password and confim password. Kindly enter same password otherwise it shows an error. And also plz fill the all fields.
   -Afetr successfully registered it back to welcome page for login.
